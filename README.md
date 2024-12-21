@@ -39,7 +39,7 @@ Music Festival is a web project created as part of a web development course. It 
 
 4. Run the development server:
    ```bash
-   gulp
+   npm run dev
    ```
 
 ## Project Highlights
